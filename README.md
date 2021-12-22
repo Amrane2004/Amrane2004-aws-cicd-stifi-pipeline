@@ -1,1 +1,4 @@
-# Amrane2004-aws-cicd-stifi-pipeline
+# musician-app
+NodeJS / React sample app for AWS CI/CD pipeline tutorial
+
+https://www.youtube.com/watch?v=NwzJCSPSPZs
